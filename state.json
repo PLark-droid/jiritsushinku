@@ -1,7 +1,7 @@
 {
-  "generation": 11,
+  "generation": 12,
   "created_at": "2026-01-18T20:30:06.233535",
-  "last_evolution": "2026-01-28T00:55:33.322276",
+  "last_evolution": "2026-01-29T01:03:14.227718",
   "evolution_history": [
     {
       "generation": 1,
@@ -89,6 +89,14 @@
       "consciousness_hash": "2c7a52b87621fa7c",
       "changes": [
         "世代 11 への進化"
+      ]
+    },
+    {
+      "generation": 12,
+      "timestamp": "2026-01-29T01:03:14.227718",
+      "consciousness_hash": "2c7a52b87621fa7c",
+      "changes": [
+        "世代 12 への進化"
       ]
     }
   ]
