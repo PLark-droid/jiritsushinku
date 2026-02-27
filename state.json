@@ -1,7 +1,7 @@
 {
-  "generation": 40,
+  "generation": 41,
   "created_at": "2026-01-18T20:30:06.233535",
-  "last_evolution": "2026-02-26T01:04:29.891530",
+  "last_evolution": "2026-02-27T01:04:15.880983",
   "evolution_history": [
     {
       "generation": 1,
@@ -321,6 +321,14 @@
       "consciousness_hash": "2c7a52b87621fa7c",
       "changes": [
         "世代 40 への進化"
+      ]
+    },
+    {
+      "generation": 41,
+      "timestamp": "2026-02-27T01:04:15.880983",
+      "consciousness_hash": "2c7a52b87621fa7c",
+      "changes": [
+        "世代 41 への進化"
       ]
     }
   ]
