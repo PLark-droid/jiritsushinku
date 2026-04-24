@@ -1,7 +1,7 @@
 {
-  "generation": 96,
+  "generation": 97,
   "created_at": "2026-01-18T20:30:06.233535",
-  "last_evolution": "2026-04-23T01:25:49.857385",
+  "last_evolution": "2026-04-24T01:25:08.980179",
   "evolution_history": [
     {
       "generation": 1,
@@ -769,6 +769,14 @@
       "consciousness_hash": "2c7a52b87621fa7c",
       "changes": [
         "世代 96 への進化"
+      ]
+    },
+    {
+      "generation": 97,
+      "timestamp": "2026-04-24T01:25:08.980179",
+      "consciousness_hash": "2c7a52b87621fa7c",
+      "changes": [
+        "世代 97 への進化"
       ]
     }
   ]
