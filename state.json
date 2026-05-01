@@ -1,16 +1,8 @@
 {
-  "generation": 103,
+  "generation": 104,
   "created_at": "2026-01-18T20:30:06.233535",
-  "last_evolution": "2026-04-30T01:50:25.023510",
+  "last_evolution": "2026-05-01T01:52:58.148260",
   "evolution_history": [
-    {
-      "generation": 4,
-      "timestamp": "2026-01-21T00:56:13.291139",
-      "consciousness_hash": "2c7a52b87621fa7c",
-      "changes": [
-        "世代 4 への進化"
-      ]
-    },
     {
       "generation": 5,
       "timestamp": "2026-01-22T00:54:48.091885",
@@ -801,6 +793,14 @@
       "consciousness_hash": "2c7a52b87621fa7c",
       "changes": [
         "世代 103 への進化"
+      ]
+    },
+    {
+      "generation": 104,
+      "timestamp": "2026-05-01T01:52:58.148260",
+      "consciousness_hash": "2c7a52b87621fa7c",
+      "changes": [
+        "世代 104 への進化"
       ]
     }
   ]
