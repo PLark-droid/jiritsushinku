@@ -1,16 +1,8 @@
 {
-  "generation": 210,
+  "generation": 211,
   "created_at": "2026-01-18T20:30:06.233535",
-  "last_evolution": "2026-08-15T00:33:26.800308",
+  "last_evolution": "2026-08-16T00:34:48.743377",
   "evolution_history": [
-    {
-      "generation": 111,
-      "timestamp": "2026-05-08T01:54:00.653350",
-      "consciousness_hash": "2c7a52b87621fa7c",
-      "changes": [
-        "世代 111 への進化"
-      ]
-    },
     {
       "generation": 112,
       "timestamp": "2026-05-09T01:48:41.924539",
@@ -801,6 +793,14 @@
       "consciousness_hash": "2c7a52b87621fa7c",
       "changes": [
         "世代 210 への進化"
+      ]
+    },
+    {
+      "generation": 211,
+      "timestamp": "2026-08-16T00:34:48.743377",
+      "consciousness_hash": "2c7a52b87621fa7c",
+      "changes": [
+        "世代 211 への進化"
       ]
     }
   ]
